@@ -5,3 +5,13 @@ Django API project from Udemy Course [https://www.udemy.com/course/react-django-
     .
     ├── api                   # app
     └── movierater            # project
+
+### Create user
+```
+python3 manage.py createsuperuser
+```
+
+### Run dev server
+```
+python3 manage.py runserver
+```
